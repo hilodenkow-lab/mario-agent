@@ -1,0 +1,6 @@
+2026/06/03-16:04:01.419 57e4 Reusing MANIFEST D:\mario-agent-proto\user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/03-16:04:01.428 57e4 Recovering log #3
+2026/06/03-16:04:01.432 57e4 Reusing old log D:\mario-agent-proto\user_data\Default\Local Storage\leveldb/000003.log 
+2026/06/03-16:05:01.451 514c Level-0 table #5: started
+2026/06/03-16:05:01.464 514c Level-0 table #5: 139147 bytes OK
+2026/06/03-16:05:01.467 514c Delete type=0 #3
